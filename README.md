@@ -1,8 +1,8 @@
-## Hi there 👋
-
-<<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mayordeleke&label=Profile%20views&color=0e75b6&style=flat" alt="mayordeleke" /> </p>
+ Hi there 👋
+<h2 align="center"> I am Apena Azeez Ishola </h2>
+<h3 align="center">A passionate MERN stack & web 3 developer from Lagos, Nigeria</h3>
+<h4 align="center"> A business administration student of the University of Lagos that is engrossed with software development </h4>
+<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4E03AQGjqXwFCtQ6_w/profile-displayphoto-crop_800_800/B4EZ3bcnutIgAI-/0/1777503245374?e=1785974400&v=beta&t=-zMnYsrTEGKGWpKhBbTyLJyVAc2xFZK2mpW1j1bIZf8" alt="mayordeleke" /> </p>
 
 - 🔭 I’m currently working on **NFT Ticket generator**
 
@@ -31,15 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayordeleke&" alt="mayordeleke" /></p>
 !--
-**mayordeleke/mayordeleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on NFT event ticket generator
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help on mentorship and guidance?
-- 💬 Ask me about MERN framewrok and solidity
-- 📫 How to reach me: mayordeleke@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Ilove reading books
--->
