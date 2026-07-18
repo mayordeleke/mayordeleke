@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mayordeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayordeleke" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/apena azeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apena azeez" height="30" width="40" /></a>
-<a href="https://fb.com/mayor adeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayor adeleke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/apenaazeez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apena azeez" height="30" width="40" /></a>
+<a href="https://fb.com/mayoradeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mayor adeleke" height="30" width="40" /></a>
 <a href="https://instagram.com/mayordeleke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mayordeleke" height="30" width="40" /></a>
 </p>
 
