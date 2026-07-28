@@ -59,7 +59,7 @@ Hi there 👋
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -79,10 +79,17 @@ Hi there 👋
 
 ### GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayordeleke&theme=github_dark" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mayordeleke&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
