@@ -19,6 +19,16 @@
 
 ### 🌐 Connect with me
 <p align="center">
+  <a href="https://twitter.com/mayordeleke" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/azeezapena" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://fb.com/mayoradeleke" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+  <a href="https://instagram.com/mayordeleke" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
   
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,25 +46,6 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="center">
-  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-</p>
-
----
-
 ### 🌟 My Vision
 I believe technology should empower creativity and solve real-world problems.  
 My mission is to build scalable web applications and decentralized solutions that make life easier, more secure, and more connected.  
@@ -63,15 +54,13 @@ Currently, I’m exploring how **Web3** can revolutionize event management and d
 ---
 
 ### 📌 Pinned Projects
-<p align="center">
-  Here are some of my highlighted repositories:
+Here are some of my highlighted repositories:
 
 - [🎟️ NFT Ticket Generator](https://github.com/mayordeleke/TCC7G-SEVEN-Event-Ticket-NFT-Platform)  
   *Capstone project featuring ERC-721 smart contracts for event ticketing.*
 
 - [📂 My GitHub Profile Repo](https://github.com/mayordeleke/mayordeleke)  
   *This very README powering my profile.*
-</p>
 
 ---
 
@@ -84,7 +73,6 @@ Currently, I’m exploring how **Web3** can revolutionize event management and d
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 👀 Profile Views
