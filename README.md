@@ -71,7 +71,7 @@ Hi there 👋
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mayordeleke&theme=github_dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
