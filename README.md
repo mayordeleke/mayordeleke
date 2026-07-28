@@ -15,8 +15,10 @@ Hi there 👋
 - 📄 Know about my experiences: [My Resume](https://docs.google.com/document/d/1P-CtA50eT3oqzSGkp0N3UJcRPBFHD7CaIjsn1BsmbFk/edit?usp=drivesdk)
 - ⚡ Fun fact: **I am a book addict**
 
+---
+
 ### Connect with me:
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/mayordeleke" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayordeleke" height="30" width="40" />
   </a>
@@ -31,8 +33,10 @@ Hi there 👋
   </a>
 </p>
 
+---
+
 ### Languages and Tools:
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -55,7 +59,7 @@ Hi there 👋
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -71,12 +75,14 @@ Hi there 👋
   </a>
 </p>
 
-### GitHub Activity
+---
 
+### GitHub Activity
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayordeleke&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayordeleke&theme=github_dark" alt="Top Languages" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
