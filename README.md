@@ -70,10 +70,6 @@ Hi there 👋
 
 ### GitHub Stats
 
-### GitHub Stats
-
-### GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
