@@ -66,13 +66,13 @@ Currently, I’m exploring how **Web3** can revolutionize event management and d
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayordeleke&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayordeleke&theme=github_dark" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=mayordeleke&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
