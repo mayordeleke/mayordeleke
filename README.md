@@ -55,12 +55,13 @@ Currently, I’m exploring how **Web3** can revolutionize event management and d
 
 ### 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/mayordeleke/TCC7G-SEVEN-Event-Ticket-NFT-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayordeleke&repo=TCC7G-SEVEN-Event-Ticket-NFT-Platform&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/mayordeleke/mayordeleke">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mayordeleke&repo=mayordeleke&theme=dark&hide_border=true" />
-  </a>
+  Here are some of my highlighted repositories:
+
+- [🎟️ NFT Ticket Generator](https://github.com/mayordeleke/TCC7G-SEVEN-Event-Ticket-NFT-Platform)  
+  *Capstone project featuring ERC-721 smart contracts for event ticketing.*
+
+- [📂 My GitHub Profile Repo](https://github.com/mayordeleke/mayordeleke)  
+  *This very README powering my profile.*
 </p>
 
 ---
