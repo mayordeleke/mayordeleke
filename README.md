@@ -46,6 +46,13 @@
 
 ---
 
+### 🌟 My Vision
+I believe technology should empower creativity and solve real-world problems.  
+My mission is to build scalable web applications and decentralized solutions that make life easier, more secure, and more connected.  
+Currently, I’m exploring how **Web3** can revolutionize event management and digital ownership.
+
+---
+
 ### 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/mayordeleke/TCC7G-SEVEN-Event-Ticket-NFT-Platform">
