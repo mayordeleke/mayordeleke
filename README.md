@@ -75,7 +75,7 @@ Hi there 👋
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mayordeleke&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mayordeleke&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
